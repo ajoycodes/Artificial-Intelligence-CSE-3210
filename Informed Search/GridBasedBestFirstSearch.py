@@ -1,6 +1,3 @@
-#%%
---Grid-based Best First Search Implementation--
-
 import heapq
 
 
